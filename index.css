@@ -1,0 +1,32 @@
+#intro {
+background-color: lightgrey;
+    image-resolution: snap;
+    border-image: -moz-element();
+
+}
+
+
+h1{
+    background-color: lightgrey;
+    border-image: -moz-element();
+
+}
+
+h2{
+background-color: dimgrey;
+    border-image: -moz-element();
+
+}
+
+aside{
+    background-color: lightgrey;
+}
+
+p{
+    background-color: dimgrey;
+
+}
+
+footer{
+    background-color: lightgrey;
+}
